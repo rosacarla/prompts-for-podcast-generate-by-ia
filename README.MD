@@ -20,43 +20,49 @@
 
 # Projeto Podcast Gerado por Inteligência Artificial
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
- > ℹ️ **NOTE:** Este é um repositório criado durante o curso "Criando um Podcast com IAs Generativas", promovido pela [DIO](https://dio.me).
+> ℹ️ **NOTE:** Este é um repositório criado durante o curso "Criando um Podcast com IAs Generativas", promovido pela [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.    
+
+🎧 Ouça o podcast: [Podcast Editado](output/podcast_editado.mp3)
+
+---  
 
 ## 💻 Tecnologias utilizadas
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo.Ai](https://app.leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Capcut](https://www.capcut.com/pt-br/)  
+
+---  
 
 ## ✨ Como foi feito?
 
 - Roteiro gerado via ChatGPT
 - Audio gerado pela ElevenLabs
 - Leonardo.Ai para gerar capas
-- CapCut para tratar aúdio e adicionar sons de fundo
+- CapCut para tratar aúdio e adicionar sons de fundo  
+
+---  
 
 ## 📚 Materiais  
    
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-- Prompt para gerar imagens de capas (opção 1): "a podcaster young girl long curly hair smiling with microphone, side by side night city, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic ,hyper realistic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2"      
+- Prompt para gerar imagens de capas (opção 1): "a podcaster young girl long curly hair smiling with microphone, side by side night city, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic ,hyper realistic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2"     
+- Prompt para gerar imagens de capas (opção 2):   
 
 <p align="center">
 <img 
     src="assets/prompt2-capas-podcast.png"
     width="800"
 />
-</p>
+</p>  
 
+---  
 
 ## 🛠️ Instruções de execução
 
@@ -64,8 +70,10 @@ Utilize os prompts fornecidos dentro do link do `Notion` na parte de `Materiais`
 
 - 🤖 1. Use os prompts de roteiro no `ChatGPT`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Leonardo.Ai`  
+- 🤖 3. Use os prompts de artes no `Leonardo.Ai`   
 
- ## 👨‍💻 Expert
+---  
+
+## 👨‍💻 Expert
 
 [Carla Silveira](https://github.com/rosacarla)
