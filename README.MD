@@ -24,9 +24,15 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.    
-
-🎧 Ouça o podcast: [Podcast Editado](output/podcast_editado.mp3)
+Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.                                                                                                   
+         
+<p align="center">
+<img 
+    src="assets/prompt2-capas-podcast.png"
+    width="800"
+/>
+</p> 
+🎧 Ouça o podcast: [Podcast Editado](output/podcast001.mp3)
 
 ---  
 
