@@ -45,11 +45,11 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 - Leonardo.Ai para gerar capas
 - CapCut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
-
+## 📚 Materiais  
+   
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
+- Prompt para gerar imagens de capas (opção 1): "a podcaster young girl long curly hair smiling with microphone, side by side night city, camera settings f/ 8, 1/ 100s, ISO 100, complex lighting, backlighting, dynamic cinematic lighting, global illumination, ultra-high resolution,realistic filter of real colors, photo processing in 16K, cinematic, photorealistic, hyperrealistic ,hyper realistic, cinematic light, ultra realistic photography, ultra detailed --ar 1:1 --v 5.2"      
 
 ## 🛠️ Instruções de execução
 
