@@ -18,12 +18,11 @@
 </a>
 </p>
 
+# Projeto Podcast Gerado por Inteligência Artificial
+
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
-
-# Projeto Podcast Gerado por Inteligência Artificial
-
 
  > ℹ️ **NOTE:** Este é um repositório criado durante o curso "Criando um Podcast com IAs Generativas", promovido pela [DIO](https://dio.me).
 
