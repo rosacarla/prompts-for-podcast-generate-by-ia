@@ -31,7 +31,8 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
     src="assets/cover-podcast.png"
     width="600"
 />
-</p>                                                                                                                                                                                     
+</p>                                                                                                                          
+</br>                                                                                                                                                                                      
 > Ouça o [podcast](https://github.com/rosacarla/prompts-for-podcast-generate-by-ia/blob/main/output/podcast001.mp3)
 
 
